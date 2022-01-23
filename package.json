@@ -1,0 +1,14 @@
+{
+  "name": "pick",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.1.0",
+    "helmet": "^5.0.1",
+    "xss-clean": "^0.1.1"
+  }
+}
